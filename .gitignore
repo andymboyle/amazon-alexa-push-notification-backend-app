@@ -9,4 +9,5 @@ tmp
 .coveragerc
 .cache
 uploads
-amazon_alexa_backend/amazon_alexa_backend/local_settings.py
+amazon_alexa_backend/local_settings.py
+db.sqlite3
