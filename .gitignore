@@ -1,0 +1,12 @@
+venv
+*.pyc
+static
+node_modules
+*.DS_Store
+tmp
+.env
+.coverage
+.coveragerc
+.cache
+uploads
+amazon_alexa_backend/amazon_alexa_backend/local_settings.py
