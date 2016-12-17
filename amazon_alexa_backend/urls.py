@@ -10,7 +10,7 @@ import django.views.defaults as default_views
 from django.contrib.auth.models import User
 
 #from content.api.viewsets import ContentViewSet
-from amazon_alexa_backebd.devices.api.viewsets import AmazonDeviceViewSet
+from amazon_alexa_backend.devices.api.viewsets import AmazonDeviceViewSet
 
 
 from rest_framework import routers
