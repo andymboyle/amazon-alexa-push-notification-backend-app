@@ -9,12 +9,16 @@ import django.views.defaults as default_views
 
 from django.contrib.auth.models import User
 
+from content.api.viewsets import ContentViewSet
+#from devices.api.viewsets import AmazonDeviceViewSet
+
+
 from rest_framework import routers
 
 # api urls
 router = routers.DefaultRouter(schema_title="Amazon Alexa Backend API")
-router.register(r'content', ContentViewSet, base_name='content')
-router.register(r'devices', DeviceViewSet, base_name='devices')
+#router.register(r'content', ContentViewSet, base_name='content')
+router.register(r'devices', AmazonDeviceViewSet, base_name='devices')
 
 
 urlpatterns = [
