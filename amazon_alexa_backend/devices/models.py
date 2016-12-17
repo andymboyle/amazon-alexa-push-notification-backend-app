@@ -2,6 +2,10 @@ from __future__ import unicode_literals
 
 from django.db import models
 
+DEVICE_TYPE_CHOICES = (
+    (u'amazon', u'Amazon'),
+)
+
 class AmazonDevice(models.Model):
     created_on = models.DateTimeField(auto_now_add=True)
     type = models.CharField(max_length=50, choices=DEVICE_TYPE_CHOICES)
