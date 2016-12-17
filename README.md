@@ -20,4 +20,12 @@ Eventually, I'll also build a companion Amazon Alexa Skill that meshes with this
 
 A bunch of this code was originally architected by Ryan Nagle, who is awesome. This is my attempt at open sourcing the code we worked on together. So he deserves a lot of whatever credit you'd heap on me. Just FYI.
 
-Anywho, this is all for teaching purposes and to help others. Yell at me (google my name to find my email) if you have any questions. Thanks!
+ALSO: You will need a local_settings.py file in the amazon_alexa_backend folder. All it'll need it:
+
+`SECRET_KEY = 'enter in some random string here plz'`
+
+Or else your local install of this app won't run. Cool? Cool.
+
+# This is long, anything else?
+
+Yes, wow, surly much? This is all for teaching purposes and to help others. Yell at me (google my name to find my email) if you have any questions. Thanks!
