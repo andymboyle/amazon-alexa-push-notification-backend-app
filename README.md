@@ -16,4 +16,8 @@ It'll also contain some basic management commands that show you how to push to t
 
 Eventually, I'll also build a companion Amazon Alexa Skill that meshes with this app and shows you the proper way to receive push notifications on your Skill, as well as a basic app. It's all kind of tricky and you need a bunch of moving parts, hence me feeling the need for an open source version of how it all fits together.
 
+# Note
+
+A bunch of this code was originally architected by Ryan Nagle, who is awesome. This is my attempt at open sourcing the code we worked on together. So he deserves a lot of whatever credit you'd heap on me. Just FYI.
+
 Anywho, this is all for teaching purposes and to help others. Yell at me (google my name to find my email) if you have any questions. Thanks!
