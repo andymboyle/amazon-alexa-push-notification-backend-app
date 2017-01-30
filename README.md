@@ -29,3 +29,7 @@ Or else your local install of this app won't run. Cool? Cool.
 # This is long, anything else?
 
 Yes, wow, surly much? This is all for teaching purposes and to help others. Yell at me (google my name to find my email) if you have any questions. Thanks!
+
+# UPDATE: Jan. 29th, 2017
+
+I may not be able to work on this code anytime soon, as I've started a new job. What was intended as a little helper thing turned out to be somewhat complicated. So, I am hoping to someday get back to this, and also unpload the companion Node.js app. Let's hope. Good luck!
