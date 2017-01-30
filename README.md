@@ -4,7 +4,7 @@ Recently, I helped build, with Ryan Nagle, the first-ever Amazon Alexa Skill to 
 
 It was built in conjunction with Breaking News, and was meant to be a skill where you could get recent news alerts from our API, as well as receive higher-level push notifications to your Alexa-backed device. The app is currently in beta testing on the Amazon side, but it most likely won't ever see the light of day, as Breaking News is shutting down Dec. 31st.
 
-# Cool story dude, but what is this for?
+# Cool story dude, but what exactly is this for?
 
 But it was awesome to build, and I know others can learn a bit from how we managed to hack something together, so I'm attempting to create a whole new app that shows one how to use these systems.
 
