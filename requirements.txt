@@ -1,4 +1,4 @@
-Django==1.10.4
+Django==1.10.7
 django-cors-headers==0.11
 django-nested-inline==0.3.5
 django-storages==1.1.8
