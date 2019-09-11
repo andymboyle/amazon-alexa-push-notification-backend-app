@@ -1,4 +1,4 @@
-Django==1.10.8
+Django
 django-cors-headers==0.11
 django-nested-inline==0.3.5
 django-storages==1.1.8
@@ -9,12 +9,12 @@ lxml==3.4.0
 oauthlib==1.0.3
 psycopg2==2.6.1
 pylibmc==1.4.1
-requests==2.8.1
+requests
 requests-oauthlib==0.5.0
 unidecode==0.4.19
 ujson==1.33
 wsgiref==0.1.2
-djangorestframework==3.4.4
-djangorestframework-jsonp==1.0.2
+djangorestframework
+djangorestframework-jsonp
 drf-extensions==0.2.8
 django-debug-toolbar==1.6
