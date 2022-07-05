@@ -12,7 +12,7 @@ pylibmc==1.4.1
 requests
 requests-oauthlib==0.5.0
 unidecode==0.4.19
-ujson==1.33
+ujson==5.4.0
 wsgiref==0.1.2
 djangorestframework
 djangorestframework-jsonp
